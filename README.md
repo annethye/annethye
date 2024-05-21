@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I have decide to join 100 days of code. I'm looking to reacquaint myself with coding and geophysics
+
+Day one 21.05 - 
